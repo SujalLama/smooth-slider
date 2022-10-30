@@ -1,7 +1,7 @@
-- Smooth Slider
+## Smooth Slider
 
-* This package lets you add smooth slider to your project
+- This package lets you add smooth slider to your project
 
-- Installation
+## Installation
 
-* npm install smoothslider
+- npm install smoothslider
